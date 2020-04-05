@@ -1,0 +1,10 @@
+  
+.item {
+    padding: 4px 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.item-selected {
+    background: #eee;
+}
