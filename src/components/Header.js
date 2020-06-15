@@ -32,7 +32,7 @@ const Header = props => {
                 <Toolbar>
                     <Grid container justify="flex-start">
                         <Typography className={classes.title} variant="h4" noWrap>
-                             Tool
+                            Bookmark
                         </Typography>
                         <div style={{paddingRight: "10px"}}></div>
                     </Grid>

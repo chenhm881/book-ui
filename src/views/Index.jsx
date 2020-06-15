@@ -12,7 +12,7 @@ import clsx from "clsx";
 class Index extends Component {
 
     componentDidMount() {
-        document.title = "Tool";
+        document.title = "Book home";
     }
 
     render() {
@@ -28,7 +28,7 @@ class Index extends Component {
                         <Grid item container>
                             <Grid container justify="space-between" className={classes.title}>
                                 <Typography variant="h6" display="inline">
-                                    Search Criteria:
+                                    Welcome:
                                 </Typography>
                             </Grid>
                         </Grid>
